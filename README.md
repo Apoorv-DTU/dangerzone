@@ -1,2 +1,2 @@
 # dangerzone
-A simple JS game
+A *simple* JS game
